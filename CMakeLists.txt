@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 4.1.2)
 
 project(
 	ZeroQ
-	DESCRIPTION "A simple async C++ Web Server"
+	DESCRIPTION "A modern async C++ Web Server"
 	LANGUAGES CXX
 )
 
