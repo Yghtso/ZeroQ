@@ -1,5 +1,6 @@
 add_library(zeroq_lib
-
+	src/test.cpp
+	src/test.h
 )
 
 target_include_directories(zeroq_lib
