@@ -1,10 +1,7 @@
-#include <test.h>
-
-#include <format>
 #include <print>
 
-int main() {
-  int result = somma(1, 2);
-  std::println("{}", result);
+int main(int argc, char *argv[]) {
+  std::print("Hello, World!\n");
+
   return 0;
 }
