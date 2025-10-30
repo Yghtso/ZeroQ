@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 4.1.0)
 
 project(
-	ZeroQ
-	DESCRIPTION "A modern async C++ Web Server"
+	STM
+	DESCRIPTION "A basic language implemented in c++"
 	LANGUAGES CXX
 	VERSION 0.1.0
 )
